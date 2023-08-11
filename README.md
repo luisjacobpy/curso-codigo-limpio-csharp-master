@@ -22,6 +22,6 @@ Se aplicaron buenas practicas relacionadas al:
 >_ Uso correcto de comentarios
 
 ## Código inicial
-![Visual Studio Code](Codigoinicial.md).
+![Visual Studio Code](https://github.com/luisjacobpy/curso-codigo-limpio-csharp-master/blob/main/CodigoInicial.md).
 ## Código final
 ![Visual Studio Code](Codigofinal.md).
