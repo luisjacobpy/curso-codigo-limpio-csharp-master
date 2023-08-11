@@ -22,6 +22,6 @@ Se aplicaron buenas practicas relacionadas al:
 >_ Uso correcto de comentarios
 
 ## Código inicial
-![Visual Studio Code](https://github.com/luisjacobpy/curso-codigo-limpio-csharp-master/blob/main/CodigoInicial.md).
+![This is the link](https://github.com/luisjacobpy/curso-codigo-limpio-csharp-master/blob/main/CodigoInicial.md).
 ## Código final
-![Visual Studio Code](Codigofinal.md).
+![This is the link](https://github.com/luisjacobpy/curso-codigo-limpio-csharp-master/blob/main/Codigofinal.md).
